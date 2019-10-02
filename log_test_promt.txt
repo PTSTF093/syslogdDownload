@@ -1,0 +1,66 @@
+
+U F U C(192.168.90.17) I 2 24 80 1 14 0x5e000b4 0.097
+ok
+
+01-09-2016 00:59:06: 
+hey o prompt
+0	: OPCT64 -------- BROWSING OPERATIONS ENDED IN ERROR (left part) Row 1 to 9 of 9 
+1	: Command ===>                                                  Scroll ===> CSR  
+2	:                                                                                
+3	: Scroll right or enter the row command S to select an operation for details.    
+4	:                                                                                
+5	: LAYOUT ID          ===> OPCESA__    Change to switch layout id                 
+6	:                                                                                
+7	: Cmd Ended    time  Application      ws   no. Jobname  Errc User field       Oi 
+8	:     16/09/01 00.56 DW339DA          CGDB  15 TDW339DC 0018                  N  
+9	:     16/09/01 00.53 HO108DA          CGDB  20 THO108DB 0018                  N  
+10	:     16/09/01 00.50 JD002DB          CGDB   5 TJD002DB 0018                  N  
+11	:     16/09/01 00.31 HO230DA          CGDB  15 THO230DE 0018 HD-1459290       Y  
+12	:     16/08/31 23.59 HB021DA          CGDB  10 THB021DA 0018 HD-1459283       N  
+13	:     16/08/31 23.59 ZDD010M          CGDB  85 TZD010M1 0018 HD-1459285       N  
+14	:     16/08/31 19.03 PP205DA          CGDB  10 TPP205D1 0018 HD-1459253       Y  
+15	:     16/08/31 18.30 SL045DA          QW01  20 BSL045DB 0004 HD-1459244       Y  
+16	:     16/08/22 17.39 HQ343MA          CGDB  10 THQ343MB U012 HD-1454748       Y  
+17	: ******************************* Bottom of data ********************************
+18	:                                                                                
+19	:                                                                                
+20	:                                                                                
+21	:                                                                                
+22	:                                                                                
+23	:                                                                                
+
+
+
+
+U F U C(192.168.90.17) I 2 24 80 1 14 0x5e000b4 0.117
+ok
+
+01-09-2016 01:01:00: 
+hey o prompt
+0	: OPCT64 -------- BROWSING OPERATIONS ENDED IN ERROR (left part) Row 1 to 8 of 8 
+1	: Command ===>                                                  Scroll ===> CSR  
+2	:                                                                                
+3	: Scroll right or enter the row command S to select an operation for details.    
+4	:                                                                                
+5	: LAYOUT ID          ===> OPCESA__    Change to switch layout id                 
+6	:                                                                                
+7	: Cmd Ended    time  Application      ws   no. Jobname  Errc User field       Oi 
+8	:     16/09/01 00.56 DW339DA          CGDB  15 TDW339DC 0018                  N  
+9	:     16/09/01 00.53 HO108DA          CGDB  20 THO108DB 0018                  N  
+10	:     16/09/01 00.31 HO230DA          CGDB  15 THO230DE 0018 HD-1459290       Y  
+11	:     16/08/31 23.59 HB021DA          CGDB  10 THB021DA 0018 HD-1459283       N  
+12	:     16/08/31 23.59 ZDD010M          CGDB  85 TZD010M1 0018 HD-1459285       N  
+13	:     16/08/31 19.03 PP205DA          CGDB  10 TPP205D1 0018 HD-1459253       Y  
+14	:     16/08/31 18.30 SL045DA          QW01  20 BSL045DB 0004 HD-1459244       Y  
+15	:     16/08/22 17.39 HQ343MA          CGDB  10 THQ343MB U012 HD-1454748       Y  
+16	: ******************************* Bottom of data ********************************
+17	:                                                                                
+18	:                                                                                
+19	:                                                                                
+20	:                                                                                
+21	:                                                                                
+22	:                                                                                
+23	:                                                                                
+
+
+
